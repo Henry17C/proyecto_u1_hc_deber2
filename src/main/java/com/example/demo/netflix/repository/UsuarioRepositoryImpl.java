@@ -12,6 +12,7 @@ public class UsuarioRepositoryImpl implements IUsuarioRepository {
 	
 	private static List<Usuario> usuario=new ArrayList<>();
 
+	//pp
 	@Override
 	public Usuario buscar(Integer id) {
 		// TODO Auto-generated method stub
